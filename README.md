@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-silencio-de-tu-ausencia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: El silencio de tu ausencia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-silencio-de-tu-ausencia/) |
+| **Get License** | [Request Licensing for El silencio de tu ausencia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-silencio-de-tu-ausencia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> El silencio de tu ausencia me grita en la habitación
+> Tengo la disco llena, pero vacía la emoción
+> Mami, tú dejaste el humo de nuestra pasión
+> Vuelve a mi cama y curamos este corazón
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
