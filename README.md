@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-silencio-de-tu-ausencia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for El silencio de tu ausencia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-silencio-de-tu-ausencia/) |
+| **Get License** | [Get License For El silencio de tu ausencia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-silencio-de-tu-ausencia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `88733155523a5a066c3cf053748cf3357f123bed39451e5ba02683ae68b5a665` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

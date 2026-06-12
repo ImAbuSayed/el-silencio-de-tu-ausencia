@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El silencio de tu ausencia
+
+This log tracks the cryptographic history and versioning for the song **El silencio de tu ausencia** (el-silencio-de-tu-ausencia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T03:59:19.982468 | `v1` | `88733155523a5a066c3cf053748cf3357f123bed39451e5ba02683ae68b5a665` | `df910081366a4d1ba8aca884e729b8a1ca0004b1e51dd74b4f7f5b46c2d26b56` | `2026-06-13_el-silencio-de-tu-ausencia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
